@@ -69,6 +69,13 @@
 <a id="pathfinder"></a>
 ### PathFinder · `In Progress`
 
+<p align="center">
+  <a href="https://pathfinder-git-main-ann-z19.vercel.app/">
+      <img src="./assets/projects/pathfinder.webp" width="720"
+       alt="PathFinder home page in a dark theme with the headline 'A path that fits who you are', buttons to see results or explore careers, and a card outlining three steps: Discover, Understand, and Explore">
+  </a>
+</p>
+
 <pre>
 ├── about      a career-exploration app that helps users
 │              narrow broad career possibilities into
@@ -86,6 +93,13 @@
 <a id="civic-threads"></a>
 ### Civic Threads · `Live`
 
+<p align="center">
+  <a href="https://civicthreads.store/">
+      <img src="./assets/projects/civic-threads.webp" width="720"
+       alt="Civic Threads home page with a close-up photo of a sewing machine stitching plaid fabric, the headline 'Clothes worth asking about', and navigation links for Shop, Transparency Hub, Our Makers, and About">
+  </a>
+</p>
+
 <pre>
 ├── about      team e-commerce site on product costs,
 │              sustainability, and product journeys
@@ -101,6 +115,13 @@
 
 <a id="ruixi-pianist"></a>
 ### Ruixi Pianist · `Live`
+
+<p align="center">
+  <a href="https://ruixipianist.com/">
+    <img src="./assets/projects/ruixi-pianist.webp" width="720"
+        alt="Ruixi Pianist home page with an elegant serif layout: the name Rui Xi beside a photo of the pianist seated at a grand piano, and navigation for Biography, Performance, Teaching, Gallery, and Contact">
+  </a>
+</p>
 
 <pre>
 ├── about      personal website presenting a pianist's
@@ -135,9 +156,10 @@
 <pre>
 ├── migrated   20+ pages from Wix to a custom
 │              responsive website (HTML · CSS · JS)
-└── shipped    deployment configuration
-               responsive, cross-browser, and
-               accessibility testing
+├── shipped    deployment configuration
+│              responsive, cross-browser, and
+│              accessibility testing
+└── Link       <a href="https://collegeleap.us/">College Leap website</a>
 </pre>
 
 <p align="right"><sub><a href="#top">↑ back to tree</a></sub></p>
@@ -148,7 +170,7 @@
 ## `05` $ contact --list
 
 <pre>
-├── linkedin   <a href="https://www.linkedin.com/in/xuyuan-z19902">Xuyuan Zheng on LinkedIn</a>
+├── linkedin   <a href="https://www.linkedin.com/in/xuyuan-z19902">My LinkedIn Profile</a>
 ├── email      <a href="mailto:0919xuz@gmail.com">0919xuz@gmail.com</a>
 └── portfolio  coming soon
 </pre>
