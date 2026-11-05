@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://pathfinder-git-main-ann-z19.vercel.app/">
-      <img src="./assets/projects/pathfinder.webp" width="720"
+      <img src="./assets/projects/pathfinder.gif" width="720"
        alt="PathFinder home page in a dark theme with the headline 'A path that fits who you are', buttons to see results or explore careers, and a card outlining three steps: Discover, Understand, and Explore">
   </a>
 </p>
@@ -84,6 +84,8 @@
 │              → ongoing development
 ├── features   interest assessment matched with
 │              O*NET occupation data
+│              education-level filtering
+│              career detail pages
 ├── stack      React · JavaScript · Node.js · Express.js
 │              O*NET Web Services
 └── links      <a href="https://github.com/Ann-z19/PathFinder">PathFinder GitHub repository</a>
@@ -95,7 +97,7 @@
 
 <p align="center">
   <a href="https://civicthreads.store/">
-      <img src="./assets/projects/civic-threads.webp" width="720"
+      <img src="./assets/projects/civic-threads.gif" width="720"
        alt="Civic Threads home page with a close-up photo of a sewing machine stitching plaid fabric, the headline 'Clothes worth asking about', and navigation links for Shop, Transparency Hub, Our Makers, and About">
   </a>
 </p>
@@ -118,7 +120,7 @@
 
 <p align="center">
   <a href="https://ruixipianist.com/">
-    <img src="./assets/projects/ruixi-pianist.webp" width="720"
+    <img src="./assets/projects/pianist.gif" width="720"
         alt="Ruixi Pianist home page with an elegant serif layout: the name Rui Xi beside a photo of the pianist seated at a grand piano, and navigation for Biography, Performance, Teaching, Gallery, and Contact">
   </a>
 </p>
